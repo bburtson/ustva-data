@@ -10,3 +10,10 @@ Install-Package Microsoft.EntityFrameworkCore
 ```
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
 ```
+
+**Then for the lib**
+```
+Install-Package Ustva.Data -Version 1.0.0
+```
+
+https://www.nuget.org/packages/Ustva.Data/
